@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         //TODO 1: Tambahkan repos
+        //TODO 2: Tambahkan apa saja
 
     }
 }
